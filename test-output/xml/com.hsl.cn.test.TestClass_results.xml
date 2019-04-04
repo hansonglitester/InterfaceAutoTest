@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="测试"
+           tests="4"
+           failures="2"
+           errors="0"
+           skipped="0"
+           time="0.006">
+  <properties />
+            <testcase name="test4" time="0.001" classname="com.hsl.cn.test.TestClass">
+                <failure type="java.lang.AssertionError"
+                  message="expected [3] but found [1]"
+              >
+<![CDATA[java.lang.AssertionError: expected [3] but found [1]
+  org.testng.Assert.fail(Assert.java:96)
+  org.testng.Assert.failNotEquals(Assert.java:776)
+  org.testng.Assert.assertEqualsImpl(Assert.java:137)
+  org.testng.Assert.assertEquals(Assert.java:118)
+  org.testng.Assert.assertEquals(Assert.java:652)
+  org.testng.Assert.assertEquals(Assert.java:662)
+  com.hsl.cn.test.TestClass.test4(TestClass.java:22)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:498)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+  org.testng.TestRunner.privateRun(TestRunner.java:648)
+  org.testng.TestRunner.run(TestRunner.java:505)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+  org.testng.SuiteRunner.run(SuiteRunner.java:364)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+  org.testng.TestNG.runSuites(TestNG.java:1049)
+  org.testng.TestNG.run(TestNG.java:1017)
+  org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+  org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+]]>
+      </failure>
+
+          </testcase>
+            <testcase name="test1" time="0.003" classname="com.hsl.cn.test.TestClass">
+                <failure type="java.lang.AssertionError"
+                  message="expected [2] but found [1]"
+              >
+<![CDATA[java.lang.AssertionError: expected [2] but found [1]
+  org.testng.Assert.fail(Assert.java:96)
+  org.testng.Assert.failNotEquals(Assert.java:776)
+  org.testng.Assert.assertEqualsImpl(Assert.java:137)
+  org.testng.Assert.assertEquals(Assert.java:118)
+  org.testng.Assert.assertEquals(Assert.java:652)
+  org.testng.Assert.assertEquals(Assert.java:662)
+  com.hsl.cn.test.TestClass.test1(TestClass.java:10)
+  sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+  sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  java.lang.reflect.Method.invoke(Method.java:498)
+  org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+  org.testng.TestRunner.privateRun(TestRunner.java:648)
+  org.testng.TestRunner.run(TestRunner.java:505)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+  org.testng.SuiteRunner.run(SuiteRunner.java:364)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+  org.testng.TestNG.runSuites(TestNG.java:1049)
+  org.testng.TestNG.run(TestNG.java:1017)
+  org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+  org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:123)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+            <testcase name="test2" time="0.001" classname="com.hsl.cn.test.TestClass" />
+                <testcase name="test3" time="0.001" classname="com.hsl.cn.test.TestClass" />
+      
+</testsuite>

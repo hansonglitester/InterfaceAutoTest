@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Default test"
+           tests="11"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.011">
+  <properties />
+  
+  
+            <testcase name="test2" time="0.000" classname="com.hsl.cn.dataprovider.DataProvider01" />
+                <testcase name="test1" time="0.000" classname="com.hsl.cn.dataprovider.DataProvider01" />
+                <testcase name="test1" time="0.009" classname="com.hsl.cn.dataprovider.DataProvider01" />
+                <testcase name="test1" time="0.000" classname="com.hsl.cn.dataprovider.DataProvider01" />
+                <testcase name="test2" time="0.001" classname="com.hsl.cn.dataprovider.DataProvider01" />
+                <testcase name="test2" time="0.000" classname="com.hsl.cn.dataprovider.DataProvider01" />
+                <testcase name="test3" time="0.000" classname="com.hsl.cn.dataprovider.DataProvider01" />
+                <testcase name="test4" time="0.000" classname="com.hsl.cn.dataprovider.DataProvider01" />
+                <testcase name="test3" time="0.001" classname="com.hsl.cn.dataprovider.DataProvider01" />
+                <testcase name="test4" time="0.000" classname="com.hsl.cn.dataprovider.DataProvider01" />
+                <testcase name="test3" time="0.000" classname="com.hsl.cn.dataprovider.DataProvider01" />
+      
+</testsuite>

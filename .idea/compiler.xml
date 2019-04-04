@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lessonextentreport" />
+        <module name="lessonhttpclient" />
+        <module name="lessontestng" />
+        <module name="springboot" />
+        <module name="springbootjpa001" />
+        <module name="springbootmock" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="InterfaceAutoTest" target="1.8" />
+      <module name="lessonextentreport" target="1.8" />
+      <module name="lessonhttpclient" target="1.8" />
+      <module name="lessontestng" target="1.5" />
+      <module name="mockapi" target="1.8" />
+      <module name="springboot" target="1.8" />
+      <module name="Springbootjpa" target="1.8" />
+      <module name="springbootjpa001" target="1.8" />
+      <module name="springbootmock" target="1.8" />
+      <module name="springbootmockapi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Springbootjpa" options="-parameters" />
+      <module name="lessonextentreport" options="-parameters" />
+      <module name="lessonhttpclient" options="-parameters" />
+      <module name="mockapi" options="-parameters" />
+      <module name="springboot" options="-parameters" />
+      <module name="springbootjpa001" options="-parameters" />
+      <module name="springbootmock" options="-parameters" />
+      <module name="springbootmockapi" options="-parameters" />
+    </option>
+  </component>
+</project>

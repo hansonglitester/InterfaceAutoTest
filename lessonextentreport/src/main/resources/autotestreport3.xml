@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default suite">
+
+    <test  name="Default test1">
+        <classes>
+            <class name="com.hsl.cn.dataprovider.DataProvider01" >
+                <methods >
+                    <include name="test1"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test  name="Default test2">
+        <classes>
+            <class name="com.hsl.cn.dataprovider.DataProvider01" >
+                <methods >
+                    <include name="test2"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+    <test  name="Default test3">
+        <classes>
+            <class name="com.hsl.cn.dataprovider.DataProvider01" >
+                <methods >
+                    <include name="test3"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+    <test  name="Default test4">
+        <classes>
+            <class name="com.hsl.cn.dataprovider.DataProvider01" >
+                <methods >
+                    <include name="test4"></include>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+
+    <listeners>
+        <listener class-name="com.hsl.cn.reporter.ExtentTestNGIReporterListener"></listener>
+    </listeners>
+</suite>

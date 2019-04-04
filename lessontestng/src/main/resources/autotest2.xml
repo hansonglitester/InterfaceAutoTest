@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite  name="1" >
+    <test name="测试1">
+        <classes>
+            <class name="com.hsl.cn.TestLogin"> </class>
+            <class name="com.hsl.cn.TestGoodCar"> </class>
+        </classes>
+    </test>
+
+    <test name="测试2">
+        <classes>
+            <class name="com.hsl.cn.TestQuery"> </class>
+        </classes>
+    </test>
+</suite>
