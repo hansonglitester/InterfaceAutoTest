@@ -1,9 +1,8 @@
-package com.hsl.cn.util;
+package test.yizhan;
 
 import org.apache.http.Header;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
-import org.apache.http.client.HttpClient;
 import org.apache.http.client.entity.UrlEncodedFormEntity;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.client.methods.HttpPost;
@@ -85,11 +84,7 @@ public class HttpClientUtil {
             post=new HttpPost(url);
 
             //设置请求头
-            if (headers!=null&&headers.length>0){
-                for (Header header:headers){
-                    post.setHeader(header);
-                }
-            }
+            post.setHeaders(headers);
 
             //设置请求参数
             StringEntity stringEntity=new StringEntity(param,"utf-8");
@@ -98,6 +93,7 @@ public class HttpClientUtil {
             //获得响应的内容
             HttpResponse response= client.execute(post);
             String result= EntityUtils.toString(response.getEntity(),"utf-8");
+            System.out.println("---------"+result);
             return result;
 
         }else{
@@ -121,4 +117,5 @@ public class HttpClientUtil {
     public static String send(String method,String url) throws IOException {
         return send(method,null,url,"");
     }
+
 }

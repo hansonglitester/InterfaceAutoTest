@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/InterfaceAutoTest.iml" filepath="$PROJECT_DIR$/.idea/InterfaceAutoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autotest/autotest.iml" filepath="$PROJECT_DIR$/autotest/autotest.iml" />
       <module fileurl="file://$PROJECT_DIR$/lessonextentreport/lessonextentreport.iml" filepath="$PROJECT_DIR$/lessonextentreport/lessonextentreport.iml" />
       <module fileurl="file://$PROJECT_DIR$/lessonhttpclient/lessonhttpclient.iml" filepath="$PROJECT_DIR$/lessonhttpclient/lessonhttpclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/lessontestng/lessontestng.iml" filepath="$PROJECT_DIR$/lessontestng/lessontestng.iml" />

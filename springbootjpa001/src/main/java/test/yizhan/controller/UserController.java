@@ -1,7 +1,8 @@
 package test.yizhan.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.data.domain.Example;
+import org.springframework.web.bind.annotation.*;
 import test.yizhan.dao.UserDao;
 import test.yizhan.pojo.User;
 
@@ -10,11 +11,21 @@ public class UserController {
     @Autowired
     UserDao userDao;
 
-    public String add(){
-        User user=new User();
-        user.setId(1);
-        user.setName("hanhan");
+    @PostMapping(value = "/addUser")
+    public String add(@RequestBody User user){
         userDao.save(user);
-        return "ok";
+        return user.toString();
+    }
+
+    @GetMapping(value = "/getUserInfo")
+    public String getUserInfo(@RequestParam Integer id){
+        User user=null;
+        if(userDao.existsById(id)){
+           user=userDao.getOne(id);
+
+        }else{
+            return "你查询的用户不存在";
+        }
+        return user.toString();
     }
 }
