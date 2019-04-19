@@ -2,33 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0116ca35-2f55-4996-9e8c-23db688d795c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_releavantcodes_extentreports_2_41_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/autotest/autotest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/autotest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/testcase/TestUserListCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/utils/HttpClientUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/autotest/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/autotest/src/main/resources/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/HttpClientUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/controller/PeopleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/pojo/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessonhttpclient/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessontestng/AutoTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessontestng/src/main/resources/logback-spring.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_releavantcodes_extentreports_2_41_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessonhttpclient/src/main/java/com/hsl/cn/util/HttpClientUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/lessonhttpclient/src/main/java/com/hsl/cn/util/HttpClientUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotest/autotest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/testcase/TestUserListCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/utils/HttpClientUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotest/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotest/src/main/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotest/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotest/target/classes/com/testhsl/cn/testcase/TestUserListCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotest/target/classes/com/testhsl/cn/utils/HttpClientUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotest/target/classes/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessonhttpclient/target/classes/com/hsl/cn/util/HttpClientUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/lessonhttpclient/target/classes/com/hsl/cn/util/HttpClientUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessontestng/lessontestng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lessontestng/lessontestng.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/dataprovider/DataProvider01.java" beforeDir="false" afterPath="$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/dataprovider/DataProvider01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessontestng/target/classes/com/hsl/cn/TestGoodCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/lessontestng/target/classes/com/hsl/cn/TestGoodCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessontestng/target/classes/com/hsl/cn/TestLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/lessontestng/target/classes/com/hsl/cn/TestLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessontestng/target/classes/com/hsl/cn/TestQuery.class" beforeDir="false" afterPath="$PROJECT_DIR$/lessontestng/target/classes/com/hsl/cn/TestQuery.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootjpa001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springbootjpa001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootjpa001/springbootjpa001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springbootjpa001/springbootjpa001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootjpa001/target/classes/test/yizhan/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/springbootjpa001/target/classes/test/yizhan/Application.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springbootjpa001/target/classes/test/yizhan/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springbootjpa001/target/classes/test/yizhan/controller/UserController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springbootjpa001/target/classes/test/yizhan/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/springbootjpa001/target/classes/test/yizhan/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootjpa001/target/classes/test/yizhan/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/springbootjpa001/target/classes/test/yizhan/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springbootmock/target/classes/com/test/controller/AppGateway.class" beforeDir="false" afterPath="$PROJECT_DIR$/springbootmock/target/classes/com/test/controller/AppGateway.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/20190305162022/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.hsl.cn.dataprovider.DataProvider01_results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.hsl.cn.test.TestClass_results.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/lessontestng/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,6 +66,10 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/InterfaceAutoTest$emailable_report_html.dat" NAME="emailable-report.html Coverage Results" MODIFIED="1551762157441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/InterfaceAutoTest$E__workspace_InterfaceAutoTest_lessontestng_AutoTest_xml.ic" NAME="$PROJECT_DIR$/lessontestng/AutoTest.xml Coverage Results" MODIFIED="1555570576035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/InterfaceAutoTest$All_Features_in__InterfaceAutoTest.ic" NAME="All Features in: InterfaceAutoTest Coverage Results" MODIFIED="1555570534998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/InterfaceAutoTest$Application2.ic" NAME="Application2 Coverage Results" MODIFIED="1552548872232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.hsl.cn.*</FILTER>
     </SUITE>
@@ -74,31 +95,42 @@
     <session id="592066231">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="38" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.30" value="3" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.47" value="1" />
-          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.60" value="2" />
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.62" value="1" />
-          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.63" value="2" />
           <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.65" value="1" />
           <entry key="project.open.time.66" value="1" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.open.time.78" value="1" />
           <entry key="project.open.time.81" value="1" />
           <entry key="project.open.time.94" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -111,13 +143,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="73" />
+          <entry key="CLASS" value="80" />
           <entry key="FTL" value="4" />
-          <entry key="HTML" value="19" />
-          <entry key="IDEA_MODULE" value="4" />
-          <entry key="JAVA" value="178" />
-          <entry key="Properties" value="26" />
-          <entry key="XML" value="72" />
+          <entry key="HTML" value="20" />
+          <entry key="IDEA_MODULE" value="5" />
+          <entry key="JAVA" value="255" />
+          <entry key="Manifest" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="30" />
+          <entry key="XML" value="96" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -128,10 +162,10 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11909" />
-          <entry key="PLAIN_TEXT" value="52" />
-          <entry key="Properties" value="386" />
-          <entry key="XML" value="908" />
+          <entry key="JAVA" value="15142" />
+          <entry key="PLAIN_TEXT" value="70" />
+          <entry key="Properties" value="468" />
+          <entry key="XML" value="1054" />
         </counts>
       </usages-collector>
     </session>
@@ -142,30 +176,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/pojo/User.java">
+        <entry file="file://$PROJECT_DIR$/lessonhttpclient/src/main/java/com/hsl/cn/test/Test0001.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#352#353#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessonhttpclient/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/controller/UserController.java">
+        <entry file="file://$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/dataprovider/DataProvider01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            <state relative-caret-position="267">
+              <caret line="193" column="8" selection-start-line="193" selection-start-column="8" selection-end-line="193" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -174,19 +206,59 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/HttpClientUtil.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="325">
+              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/pojo/People.java">
+        <entry file="file://$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            <state relative-caret-position="442">
+              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/TestGoodCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessontestng/src/main/resources/logback-spring.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/2.0.4.RELEASE/spring-boot-starter-logging-2.0.4.RELEASE.jar!/META-INF/spring.provides">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/TestLogin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessonhttpclient/src/main/java/com/hsl/cn/test/Test0002.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -208,6 +280,9 @@
       <find>htmlReporter</find>
       <find>init</find>
       <find>test</find>
+      <find>Enumeration</find>
+      <find>save</find>
+      <find>persist</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -216,22 +291,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lessonhttpclient/src/main/java/com/hsl/cn/test/Test.java" />
-        <option value="$PROJECT_DIR$/Springbootjpa/src/main/java/com/hsl/cn/pojo/User.java" />
-        <option value="$PROJECT_DIR$/Springbootjpa/src/main/java/com/hsl/cn/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/Springbootjpa/src/main/java/com/hsl/cn/pojo/Book1.java" />
-        <option value="$PROJECT_DIR$/Springbootjpa/src/main/java/com/hsl/cn/dao/BookDao1.java" />
-        <option value="$PROJECT_DIR$/Springbootjpa/src/main/java/com/hsl/cn/pojo/Book2.java" />
-        <option value="$PROJECT_DIR$/Springbootjpa/src/main/java/com/hsl/cn/controller/BookController2.java" />
-        <option value="$PROJECT_DIR$/Springbootjpa/pom.xml" />
-        <option value="$PROJECT_DIR$/Springbootjpa/src/main/java/com/hsl/cn/HttpClientTest.java" />
-        <option value="$PROJECT_DIR$/springboot/pom.xml" />
-        <option value="$PROJECT_DIR$/springboot/src/main/java/com/hsl/cn/controller/MyPostMethod.java" />
-        <option value="$PROJECT_DIR$/springboot/src/main/java/com/hsl/cn/controller/MyGetParamMethod.java" />
-        <option value="$PROJECT_DIR$/Springbootjpa/src/main/java/com/hsl/cn/dao/BookDao2.java" />
-        <option value="$PROJECT_DIR$/Springbootjpa/src/main/java/com/hsl/cn/dao/BookDao.java" />
-        <option value="$PROJECT_DIR$/springboot/src/main/java/com/hsl/cn/config/SwaggerConfig.java" />
-        <option value="$PROJECT_DIR$/springbootmockapi/pom.xml" />
         <option value="$PROJECT_DIR$/springbootmockapi/src/main/java/utils/HttpClientUtil.java" />
         <option value="$PROJECT_DIR$/springbootmockapi/src/main/java/controller/AppGateway.java" />
         <option value="$PROJECT_DIR$/springbootmockapi/src/main/java/com/test/Application.java" />
@@ -248,25 +307,41 @@
         <option value="$PROJECT_DIR$/springbootmock/src/main/java/com/test/service/GoodListQuery.java" />
         <option value="$PROJECT_DIR$/springbootmock/src/main/java/com/test/service/GoodService.java" />
         <option value="$PROJECT_DIR$/springbootmock/src/main/java/com/test/controller/AppGateway.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/Application.java" />
         <option value="$PROJECT_DIR$/springbootjpa001/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/pojo/User.java" />
         <option value="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/pojo/People.java" />
         <option value="$PROJECT_DIR$/springbootjpa001/pom.xml" />
         <option value="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/controller/PeopleController.java" />
         <option value="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/HttpClientUtil.java" />
-        <option value="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/test.java" />
-        <option value="$PROJECT_DIR$/autotest/pom.xml" />
         <option value="$PROJECT_DIR$/autotest/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/lessonhttpclient/src/main/java/com/hsl/cn/util/HttpClientUtil.java" />
         <option value="$PROJECT_DIR$/autotest/src/main/java/com/test/cn/utils/HttpClient.java" />
         <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/testcase/TestUserList.java" />
         <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/utils/HttpClient.java" />
-        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/testcase/TestUserListCase.java" />
-        <option value="$PROJECT_DIR$/autotest/src/main/resources/config.properties" />
         <option value="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/Application.java" />
+        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/utils/HttpClientUtils.java" />
+        <option value="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/pojo/User.java" />
+        <option value="$PROJECT_DIR$/autotest/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/config/ConfigReader.java" />
+        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/config/Config.java" />
+        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/testcase/TestUserListCase.java" />
+        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/model/GetUserCase.java" />
+        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/model/UserDetailCase.java" />
+        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/utils/ConfigReader.java" />
+        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/config/Config2.java" />
+        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/testcase/TestUserDetailCase.java" />
+        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/model/dao/UserDetailCaseDao.java" />
+        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/testcase/TestUserDetailCase2.java" />
+        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/Application.java" />
+        <option value="$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/testcase/BaseTest.java" />
+        <option value="$PROJECT_DIR$/autotest/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/test.java" />
         <option value="$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/lessonhttpclient/testng.xml" />
+        <option value="$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/Student.java" />
+        <option value="$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/dataprovider/DataProvider01.java" />
       </list>
     </option>
   </component>
@@ -279,7 +354,6 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/apache-maven-3.5.2/apache-maven-3.5.2/conf" />
         <option name="userSettingsFile" value="D:\apache-maven-3.5.2\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -289,13 +363,19 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1077" />
+    <option name="x" value="13" />
+    <option name="y" value="57" />
+    <option name="width" value="1382" />
     <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -306,6 +386,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -316,175 +398,91 @@
             <path>
               <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="lessontestng" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="lessontestng" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="autotest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="lessontestng" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="lessontestng" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="lessontestng" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="testcase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="lessontestng" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="cn" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="dataprovider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="lessontestng" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="autotest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootjpa001" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootjpa001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootjpa001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootjpa001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootjpa001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="yizhan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootjpa001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="yizhan" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootjpa001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="yizhan" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootjpa001" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="InterfaceAutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterfaceAutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootjpa001" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554862822612" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555668208335" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/lessonextentreport/src/main/java/com/hsl/cn" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lessonhttpclient/src/main/resources/config.properties" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/lessonhttpclient/src/main/resources/config.properties" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.testhsl.cn.testcase" />
+      <recent name="com.testhsl.cn.config" />
       <recent name="test.yizhan" />
       <recent name="utils" />
       <recent name="com.hsl.cn.dao" />
-      <recent name="com.hsl.cn.controller" />
-      <recent name="com.hsl.cn.dataprovider" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\InterfaceAutoTest\lessontestng\src\main\resources" />
+      <recent name="E:\workspace\InterfaceAutoTest\lessonhttpclient" />
+      <recent name="E:\workspace\InterfaceAutoTest\lessontestng" />
       <recent name="E:\workspace\InterfaceAutoTest\lessonextentreport\src\main\resources" />
       <recent name="E:\workspace\InterfaceAutoTest" />
     </key>
@@ -501,80 +499,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Application4">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hsl.cn.Application" />
-      <module name="springboot" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application3" type="Application" factoryName="Application" temporary="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.test.Application" />
-      <module name="springbootmock" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Application4" type="Application" factoryName="Application" temporary="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="test.yizhan.Application" />
-      <module name="springbootjpa001" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.yizhan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.DataProvider01.test22">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="VM_PARAMETERS" value="Dfile.encoding=UTF-8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="D:\java\jdk1.8.0_77\jre" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="test.yizhan.test" />
-      <module name="springbootjpa001" />
-      <option name="VM_PARAMETERS" value="-ea" />
+    <configuration name="DataProvider01.test1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lessontestng" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.yizhan.*" />
+          <option name="PATTERN" value="com.hsl.cn.dataprovider.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestUserListCase.TestUserList" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="autotest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.testhsl.cn.testcase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.testhsl.cn.testcase" />
-      <option name="MAIN_CLASS_NAME" value="com.testhsl.cn.testcase.TestUserListCase" />
-      <option name="METHOD_NAME" value="TestUserList" />
+      <option name="PACKAGE_NAME" value="com.hsl.cn.dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="com.hsl.cn.dataprovider.DataProvider01" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -582,20 +524,84 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DataProvider01.test22" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lessontestng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hsl.cn.dataprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hsl.cn.dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="com.hsl.cn.dataprovider.DataProvider01" />
+      <option name="METHOD_NAME" value="test22" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProvider01.test6" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lessontestng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hsl.cn.dataprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hsl.cn.dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="com.hsl.cn.dataprovider.DataProvider01" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProvider01.test7" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lessontestng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hsl.cn.dataprovider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hsl.cn.dataprovider" />
+      <option name="MAIN_CLASS_NAME" value="com.hsl.cn.dataprovider.DataProvider01" />
+      <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E:/workspace/InterfaceAutoTest/lessonhttpclient/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lessonhttpclient" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/lessonhttpclient/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Application" />
-      <item itemvalue="Application.Application3" />
-      <item itemvalue="Application.Application4" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="TestNG.TestUserListCase.TestUserList" />
+      <item itemvalue="TestNG.E:/workspace/InterfaceAutoTest/lessonhttpclient/testng.xml" />
+      <item itemvalue="TestNG.DataProvider01.test6" />
+      <item itemvalue="TestNG.DataProvider01.test7" />
+      <item itemvalue="TestNG.DataProvider01.test1" />
+      <item itemvalue="TestNG.DataProvider01.test22" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Application4" />
-        <item itemvalue="TestNG.TestUserListCase.TestUserList" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Application3" />
-        <item itemvalue="Application.Application" />
+        <item itemvalue="TestNG.DataProvider01.test22" />
+        <item itemvalue="TestNG.DataProvider01.test1" />
+        <item itemvalue="TestNG.DataProvider01.test7" />
+        <item itemvalue="TestNG.DataProvider01.test6" />
+        <item itemvalue="TestNG.E:/workspace/InterfaceAutoTest/lessonhttpclient/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -634,69 +640,96 @@
       <workItem from="1554344865199" duration="2782000" />
       <workItem from="1554363709094" duration="4372000" />
       <workItem from="1554704642949" duration="11553000" />
-      <workItem from="1554795882691" duration="15286000" />
+      <workItem from="1554795882691" duration="17193000" />
+      <workItem from="1554864835904" duration="2033000" />
+      <workItem from="1554868179190" duration="7990000" />
+      <workItem from="1554945428183" duration="937000" />
+      <workItem from="1554964328752" duration="4385000" />
+      <workItem from="1554970199641" duration="6644000" />
+      <workItem from="1555056845060" duration="2334000" />
+      <workItem from="1555293298014" duration="1561000" />
+      <workItem from="1555298806013" duration="1191000" />
+      <workItem from="1555300049503" duration="61000" />
+      <workItem from="1555300181106" duration="252000" />
+      <workItem from="1555314162109" duration="3071000" />
+      <workItem from="1555378287788" duration="1207000" />
+      <workItem from="1555481357624" duration="3734000" />
+      <workItem from="1555569197913" duration="1268000" />
+      <workItem from="1555570522849" duration="4630000" />
+      <workItem from="1555578157934" duration="3802000" />
+      <workItem from="1555583250951" duration="1895000" />
+      <workItem from="1555637697122" duration="5569000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestUserListCase_TestUserList - 2019.04.09 at 17h 54m 34s.xml">
-      <configuration name="TestUserListCase.TestUserList" configurationId="TestNG" />
+    <history-entry file="E__workspace_InterfaceAutoTest_lessonhttpclient_testng_xml - 2019.04.18 at 15h 47m 27s.xml">
+      <configuration name="E:/workspace/InterfaceAutoTest/lessonhttpclient/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestUserListCase_TestUserList - 2019.04.09 at 18h 39m 30s.xml">
-      <configuration name="TestUserListCase.TestUserList" configurationId="TestNG" />
+    <history-entry file="E__workspace_InterfaceAutoTest_lessonhttpclient_testng_xml - 2019.04.18 at 15h 48m 37s.xml">
+      <configuration name="E:/workspace/InterfaceAutoTest/lessonhttpclient/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestUserListCase_TestUserList - 2019.04.09 at 18h 41m 41s.xml">
-      <configuration name="TestUserListCase.TestUserList" configurationId="TestNG" />
+    <history-entry file="E__workspace_InterfaceAutoTest_lessonhttpclient_testng_xml - 2019.04.18 at 15h 51m 12s.xml">
+      <configuration name="E:/workspace/InterfaceAutoTest/lessonhttpclient/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestUserListCase_TestUserList - 2019.04.09 at 18h 42m 00s.xml">
-      <configuration name="TestUserListCase.TestUserList" configurationId="TestNG" />
+    <history-entry file="E__workspace_InterfaceAutoTest_lessonhttpclient_testng_xml - 2019.04.18 at 15h 52m 30s.xml">
+      <configuration name="E:/workspace/InterfaceAutoTest/lessonhttpclient/testng.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestUserListCase_TestUserList - 2019.04.09 at 18h 42m 44s.xml">
-      <configuration name="TestUserListCase.TestUserList" configurationId="TestNG" />
+    <history-entry file="DataProvider01_test6 - 2019.04.18 at 17h 29m 35s.xml">
+      <configuration name="DataProvider01.test6" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestUserListCase_TestUserList - 2019.04.09 at 18h 43m 20s.xml">
-      <configuration name="TestUserListCase.TestUserList" configurationId="TestNG" />
+    <history-entry file="DataProvider01_test7 - 2019.04.18 at 18h 15m 18s.xml">
+      <configuration name="DataProvider01.test7" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestUserListCase_TestUserList - 2019.04.09 at 18h 43m 53s.xml">
-      <configuration name="TestUserListCase.TestUserList" configurationId="TestNG" />
+    <history-entry file="DataProvider01_test7 - 2019.04.18 at 18h 17m 44s.xml">
+      <configuration name="DataProvider01.test7" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestUserListCase_TestUserList - 2019.04.09 at 18h 48m 19s.xml">
-      <configuration name="TestUserListCase.TestUserList" configurationId="TestNG" />
+    <history-entry file="DataProvider01_test1 - 2019.04.18 at 18h 35m 25s.xml">
+      <configuration name="DataProvider01.test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestUserListCase_TestUserList - 2019.04.09 at 18h 52m 04s.xml">
-      <configuration name="TestUserListCase.TestUserList" configurationId="TestNG" />
+    <history-entry file="DataProvider01_test22 - 2019.04.18 at 18h 40m 51s.xml">
+      <configuration name="DataProvider01.test22" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestUserListCase_TestUserList - 2019.04.09 at 18h 53m 10s.xml">
-      <configuration name="TestUserListCase.TestUserList" configurationId="TestNG" />
+    <history-entry file="DataProvider01_test22 - 2019.04.19 at 16h 57m 40s.xml">
+      <configuration name="DataProvider01.test22" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135795000" />
+    <option name="totallyTimeSpent" value="190266000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.2549168" />
-      <window_info id="Structure" order="1" sideWeight="0.5013624" side_tool="true" weight="0.26701966" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.68903434" visible="true" weight="0.2927383" />
+      <window_info id="Structure" order="1" sideWeight="0.502455" side_tool="true" weight="0.27836612" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" sideWeight="0.5008183" side_tool="true" weight="0.26701966" />
+      <window_info id="Favorites" order="6" sideWeight="0.31096563" side_tool="true" weight="0.35552195" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.5253683" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.12602292" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8645991" visible="true" weight="0.14729951" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.58101475" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="EvoSuite" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.3289689" />
+      <window_info anchor="bottom" id="EvoSuite" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.5826514" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.4304419" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4977307" weight="0.3666121" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.1354009" side_tool="true" visible="true" weight="0.14729951" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4977307" weight="0.43535188" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -704,9 +737,9 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Database" order="8" weight="0.32980332" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.49785408" visible="true" weight="0.12859304" />
+      <window_info anchor="right" id="Database" order="8" weight="0.329429" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.50214595" side_tool="true" visible="true" weight="0.016641453" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.27458397" />
@@ -766,367 +799,22 @@
           </properties>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/testcase/TestUserListCase.java</url>
-          <line>11</line>
-          <properties class="com.testhsl.cn.testcase.TestUserListCase" method="TestUserList">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/utils/HttpClientUtils.java</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springbootmock/src/main/java/com/test/controller/AppGateway.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootjpa001/springbootjpa001.iml">
+    <entry file="file://$USER_HOME$/Desktop/jmeter-ssh-sampler-master/src/main/java/org/apache/jmeter/protocol/ssh/sampler/AbstractSSHSampler.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/springboot/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-data-jpa/2.0.4.RELEASE/spring-boot-starter-data-jpa-2.0.4.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar!/org/gjt/mm/mysql/Driver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="10" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar!/com/mysql/jdbc/Driver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar!/org/apache/http/entity/StringEntity.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.5/gson-2.8.5-sources.jar!/com/google/gson/Gson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="1029" selection-start-line="1023" selection-end-line="1029" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessonhttpclient/src/main/java/com/hsl/cn/test/Test0002.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar!/org/apache/http/message/AbstractHttpMessage.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="69" column="30" lean-forward="true" selection-start-line="69" selection-start-column="30" selection-end-line="69" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessonhttpclient/src/main/java/com/hsl/cn/test/TestExpress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.7/httpclient-4.5.7.jar!/org/apache/http/client/methods/HttpPost.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.7/httpclient-4.5.7.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="12" column="71" lean-forward="true" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.7/httpclient-4.5.7.jar!/org/apache/http/client/methods/Configurable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.7/httpclient-4.5.7.jar!/org/apache/http/client/methods/HttpRequestBase.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="14" column="89" lean-forward="true" selection-start-line="14" selection-start-column="89" selection-end-line="14" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.7/httpclient-4.5.7.jar!/org/apache/http/client/methods/HttpUriRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar!/org/apache/http/HttpMessage.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar!/org/apache/http/HttpRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar!/org/apache/http/message/BasicHeader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/autotest/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootjpa001/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.47/mysql-connector-java-5.1.47.jar!/com/mysql/jdbc/Driver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessonhttpclient/src/main/java/com/hsl/cn/util/HttpClientUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="122" column="5" selection-start-line="122" selection-start-column="5" selection-end-line="122" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/controller/PeopleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessonhttpclient/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/utils/HttpClientUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="110" column="39" lean-forward="true" selection-start-line="110" selection-start-column="39" selection-end-line="110" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessonhttpclient/src/main/java/com/hsl/cn/test/Test0001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="35" column="51" lean-forward="true" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar!/org/apache/http/Header.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessonextentreport/src/main/java/com/hsl/cn/reporter/ExtentTestNGIReporterListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/testcase/TestUserListCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="77" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="77" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/autotest/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/autotest/src/main/resources/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.9.RELEASE/spring-data-commons-2.0.9.RELEASE.jar!/org/springframework/data/repository/query/QueryByExampleExecutor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/dao/UserDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.9.RELEASE/spring-data-commons-2.0.9.RELEASE.jar!/org/springframework/data/domain/TypedExample.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final.jar!/org/hibernate/jpa/boot/internal/EntityManagerFactoryBuilderImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="722" selection-start-line="722" selection-end-line="722" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="62" column="65" selection-start-line="62" selection-start-column="65" selection-end-line="62" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.9.RELEASE/spring-data-commons-2.0.9.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.9.RELEASE/spring-data-commons-2.0.9.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.9.RELEASE/spring-data-jpa-2.0.9.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.9.RELEASE/spring-data-commons-2.0.9.RELEASE.jar!/org/springframework/data/domain/Example.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.0.8.RELEASE/spring-webmvc-5.0.8.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="479" selection-start-line="479" selection-end-line="479" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/HttpClientUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/resources/config.properties" />
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/model.java" />
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/resources/autotest.xml" />
     <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/pojo/People.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1134,28 +822,226 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/pojo/User.java">
+    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/controller/PeopleController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/utils/HttpClientUtils.java" />
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/utils/ConfigReader.java" />
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/config/Config.java" />
+    <entry file="file://$PROJECT_DIR$/lessontestng/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/Application.java" />
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/testcase/TestUserDetailCase.java" />
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/testcase/TestUserDetailCase2.java" />
+    <entry file="file://$PROJECT_DIR$/autotest/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/config/Config2.java" />
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/model/dao/UserDetailCaseDao.java" />
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/model/pojo/UserDetailCase.java" />
+    <entry file="file://$PROJECT_DIR$/autotest/src/main/java/com/testhsl/cn/testcase/BaseTest.java" />
+    <entry file="file://$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/TestQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessontestng/src/main/resources/autotest2.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessonextentreport/src/main/java/com/hsl/cn/reporter/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessonextentreport/src/main/resources/autotestreport.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="17" selection-start-line="32" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessonextentreport/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="43" column="10" selection-start-line="43" selection-start-column="10" selection-end-line="43" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootjpa001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        <state relative-caret-position="187">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.3.RELEASE/spring-data-commons-2.1.3.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.9.RELEASE/spring-data-jpa-2.0.9.RELEASE.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4216">
+          <caret line="302" column="37" selection-start-line="302" selection-start-column="37" selection-end-line="302" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessontestng/src/main/resources/AutoTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final.jar!/javax/persistence/EntityManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.2.17.Final/hibernate-core-5.2.17.Final.jar!/org/hibernate/internal/SessionImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7803">
+          <caret line="655" column="21" selection-start-line="655" selection-start-column="21" selection-end-line="655" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.3.RELEASE/spring-data-commons-2.1.3.RELEASE.jar!/org/springframework/data/repository/Repository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/HttpClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="50" column="30" selection-start-line="50" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootjpa001/src/main/java/test/yizhan/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessontestng/AutoTest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml" />
+    <entry file="file://$PROJECT_DIR$/lessonhttpclient/src/main/java/com/hsl/cn/test/Test0001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessonhttpclient/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/TestLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessonhttpclient/src/main/java/com/hsl/cn/test/Test0002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/2.0.4.RELEASE/spring-boot-starter-logging-2.0.4.RELEASE.jar!/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/2.0.4.RELEASE/spring-boot-starter-logging-2.0.4.RELEASE.jar!/META-INF/spring.provides">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/TestGoodCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessontestng/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessontestng/src/main/java/com/hsl/cn/dataprovider/DataProvider01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="193" column="8" selection-start-line="193" selection-start-column="8" selection-end-line="193" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1227,6 +1113,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

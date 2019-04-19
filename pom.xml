@@ -20,7 +20,6 @@
         <module>springboot</module>
         <module>springbootmock</module>
         <module>springbootjpa001</module>
-        <module>autotest</module>
     </modules>
 
 

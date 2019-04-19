@@ -14,11 +14,13 @@ public class UserController {
     @PostMapping(value = "/addUser")
     public String add(@RequestBody User user){
         userDao.save(user);
+
         return user.toString();
+        user.g
     }
 
-    @GetMapping(value = "/getUserInfo")
-    public String getUserInfo(@RequestParam Integer id){
+    @GetMapping(value = "/getUserDetail")
+    public String getUserDetail(@RequestParam Integer id){
         User user=null;
         if(userDao.existsById(id)){
            user=userDao.getOne(id);

@@ -13,9 +13,11 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Springbootjpa/pom.xml" />
+        <option value="$PROJECT_DIR$/autotest/pom.xml" />
         <option value="$PROJECT_DIR$/mockapi/pom.xml" />
         <option value="$PROJECT_DIR$/springbootmockapi/pom.xml" />
       </set>
     </option>
   </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

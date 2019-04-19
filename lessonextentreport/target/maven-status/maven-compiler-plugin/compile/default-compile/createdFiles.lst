@@ -1,0 +1,4 @@
+com\hsl\cn\test\TestClass.class
+com\hsl\cn\dataprovider\DataProvider01.class
+com\hsl\cn\reporter\ExtentTestNGIReporterListener.class
+com\hsl\cn\reporter\ExtentTestNGIReporterListener$1.class

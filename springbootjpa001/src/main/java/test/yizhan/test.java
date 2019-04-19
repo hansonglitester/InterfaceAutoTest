@@ -17,45 +17,55 @@ import java.util.List;
 
 public class test {
     public static void main(String[] args) throws IOException {
-        People people =new People();
-        List<User> userList=new ArrayList<>();
-        User user1=new User();
-        user1.setName("zhang san");
-        userList.add(user1);
 
-        User user2=new User();
-        user2.setName("lisi");
-        userList.add(user2);
 
-        people.setUserList(userList);
+
+
+//        People people =new People();
+//        List<User> userList=new ArrayList<>();
+//        User user1=new User();
+//        user1.setName("zhang san");
+//        userList.add(user1);
+//
+//        User user2=new User();
+//        user2.setName("lisi");
+//        userList.add(user2);
+//
+//        people.setUserList(userList);
+//
+//        Gson gson=new Gson();
+//        String param=gson.toJson(people);
+//
+//        System.out.println(param);
+       String url="http://localhost:8090/addUser";
+//
+        //发送请求
+
+        CloseableHttpClient client = HttpClients.createDefault();
+        HttpPost post=new HttpPost(url);
+
+        //设置请求头 发送json的数据
+        post.setHeader("Content-type","application/json");
+
+        User user =new User();
+        user.setName("kkkkk");
 
         Gson gson=new Gson();
-        String param=gson.toJson(people);
+        String param=gson.toJson(user);
 
-        System.out.println(param);
-        String url="http://localhost:8090/getPeople";
-//
-//        //发送请求
-//
-//        CloseableHttpClient client = HttpClients.createDefault();
-//        HttpPost post=new HttpPost(url);
-//
-//        //设置请求头 发送json的数据
-//        post.setHeader("Content-type","application/json");
-//
-//        //设置请求参数
-//        StringEntity stringEntity=new StringEntity(param,"utf-8");
-//        post.setEntity(stringEntity);
-//        HttpResponse response= client.execute(post);
-//
-//        String result= EntityUtils.toString(response.getEntity(),"utf-8");
-//        System.out.println(result);
+        //设置请求参数
+        StringEntity stringEntity=new StringEntity(param,"utf-8");
+        post.setEntity(stringEntity);
+        HttpResponse response= client.execute(post);
 
-
-        //设置header信息
-        Header[] headers={new BasicHeader("Content-type", "application/json")};
-        String result= HttpClientUtil.send("post",headers,url,param);
+        String result= EntityUtils.toString(response.getEntity(),"utf-8");
         System.out.println(result);
+
+
+//        //设置header信息
+//        Header[] headers={new BasicHeader("Content-type", "application/json")};
+//        String result= HttpClientUtil.send("post",headers,url,param);
+//        System.out.println(result);
 
 
     }
