@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [1]">
+  <listeners>
+    <listener class-name="com.hsl.cn.cn.utils.TestngRetryListener"/>
+    <listener class-name="com.hsl.cn.cn.utils.ExtentTestNGIReporterListener"/>
+  </listeners>
+  <test thread-count="5" name="测试2(failed)">
+    <classes>
+      <class name="com.hsl.cn.cn.TestQuery">
+        <methods>
+          <include name="testCase2"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- TestQuery -->
+    </classes>
+  </test> <!-- 测试2(failed) -->
+</suite> <!-- Failed suite [1] -->

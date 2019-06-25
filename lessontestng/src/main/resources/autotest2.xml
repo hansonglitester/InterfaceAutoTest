@@ -2,14 +2,20 @@
 <suite  name="1" >
     <test name="测试1">
         <classes>
-            <class name="com.hsl.cn.TestLogin"> </class>
-            <class name="com.hsl.cn.TestGoodCar"> </class>
+            <class name="com.hsl.cn.cn.TestLogin"> </class>
+            <class name="com.hsl.cn.cn.TestGoodCar"> </class>
         </classes>
     </test>
 
     <test name="测试2">
         <classes>
-            <class name="com.hsl.cn.TestQuery"> </class>
+            <class name="com.hsl.cn.cn.TestQuery"> </class>
         </classes>
     </test>
+
+    <listeners>
+        <listener class-name="com.hsl.cn.cn.utils.TestngRetryListener"></listener>
+
+        <listener class-name="com.hsl.cn.cn.utils.ExtentTestNGIReporterListener"></listener>
+    </listeners>
 </suite>

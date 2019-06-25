@@ -4,13 +4,13 @@
 
     <test verbose="2" name="Default test">
         <classes>
-            <class name="com.hsl.cn.TestQuery" />
+            <class name="com.hsl.cn.cn.TestQuery" />
         </classes>
     </test>
 
     <test verbose="2" name="Default test2">
         <classes>
-            <class name="com.hsl.cn.TestLogin" />
+            <class name="com.hsl.cn.cn.TestLogin" />
         </classes>
     </test>
 </suite>

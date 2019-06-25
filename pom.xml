@@ -20,6 +20,8 @@
         <module>springboot</module>
         <module>springbootmock</module>
         <module>springbootjpa001</module>
+        <module>springbootinterface</module>
+        <module>springbootmail</module>
     </modules>
 
 

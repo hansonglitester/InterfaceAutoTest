@@ -17,6 +17,6 @@
     </test>
 
     <listeners>
-        <listener class-name="com.hsl.cn.reporter.ExtentTestNGIReporterListener"></listener>
+        <listener class-name="com.hsl.cn.reporter.MyExtentReporter"></listener>
     </listeners>
 </suite>

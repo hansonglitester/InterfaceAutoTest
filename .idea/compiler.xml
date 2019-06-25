@@ -10,7 +10,9 @@
         <module name="lessonhttpclient" />
         <module name="lessontestng" />
         <module name="springboot" />
+        <module name="springbootinterface" />
         <module name="springbootjpa001" />
+        <module name="springbootmail" />
         <module name="springbootmock" />
       </profile>
     </annotationProcessing>
@@ -18,9 +20,11 @@
       <module name="InterfaceAutoTest" target="1.8" />
       <module name="lessonextentreport" target="1.8" />
       <module name="lessonhttpclient" target="1.8" />
-      <module name="lessontestng" target="8" />
+      <module name="lessontestng" target="1.8" />
       <module name="springboot" target="1.8" />
+      <module name="springbootinterface" target="1.8" />
       <module name="springbootjpa001" target="1.8" />
+      <module name="springbootmail" target="1.8" />
       <module name="springbootmock" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -29,7 +33,9 @@
       <module name="lessonextentreport" options="-parameters" />
       <module name="lessonhttpclient" options="-parameters" />
       <module name="springboot" options="-parameters" />
+      <module name="springbootinterface" options="-parameters" />
       <module name="springbootjpa001" options="-parameters" />
+      <module name="springbootmail" options="-parameters" />
       <module name="springbootmock" options="-parameters" />
     </option>
   </component>

@@ -7,7 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/lessonhttpclient/lessonhttpclient.iml" filepath="$PROJECT_DIR$/lessonhttpclient/lessonhttpclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/lessontestng/lessontestng.iml" filepath="$PROJECT_DIR$/lessontestng/lessontestng.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot/springboot.iml" filepath="$PROJECT_DIR$/springboot/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootinterface/springbootinterface.iml" filepath="$PROJECT_DIR$/springbootinterface/springbootinterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootjpa001/springbootjpa001.iml" filepath="$PROJECT_DIR$/springbootjpa001/springbootjpa001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootmail/springbootmail.iml" filepath="$PROJECT_DIR$/springbootmail/springbootmail.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootmock/springbootmock.iml" filepath="$PROJECT_DIR$/springbootmock/springbootmock.iml" />
     </modules>
   </component>

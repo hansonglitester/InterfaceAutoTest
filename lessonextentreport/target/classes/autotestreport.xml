@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Default suite">
+    <parameter name="report.config" value="src\main\resources\extent-config.xml"></parameter>
 
-    <test  name="Default test">
+    <test  name="测试1">
         <classes>
             <class name="com.hsl.cn.dataprovider.DataProvider01" >
                 <methods >
@@ -16,7 +17,7 @@
         </classes>
     </test>
 
-    <test  name="测试">
+    <test  name="测试2">
         <classes>
             <class name="com.hsl.cn.test.TestClass" >
                 <methods >
@@ -31,6 +32,8 @@
     </test>
 
     <listeners>
-        <listener class-name="com.hsl.cn.reporter.ExtentTestNGIReporterListener"></listener>
+        <!--<listener class-name="com.hsl.cn.reporter.TestNGIReporterListener"></listener>-->
+        <listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"></listener>
+        <!--<listener class-name="com.hsl.cn.reporter.MyExtentReporter"></listener>-->
     </listeners>
 </suite>

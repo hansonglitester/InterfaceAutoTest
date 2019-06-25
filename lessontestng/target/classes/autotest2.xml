@@ -12,4 +12,10 @@
             <class name="com.hsl.cn.TestQuery"> </class>
         </classes>
     </test>
+
+    <listeners>
+        <listener class-name="com.hsl.cn.utils.TestngRetryListener"></listener>
+
+        <listener class-name="com.hsl.cn.utils.ExtentTestNGIReporterListener"></listener>
+    </listeners>
 </suite>

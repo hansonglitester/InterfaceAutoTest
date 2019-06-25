@@ -3,19 +3,19 @@
 <suite name="All Test Suite" thread-count="10" parallel="tests"  >
     <test verbose="10" preserve-order="true" name="E:/workspace/InterfaceAutoTest/lessonhttpclient" >
         <classes>
-            <class name="com.hsl.cn.test.Test0001">
+            <class name="com.hsl.cn.cn.test.Test0001">
                 <methods>
                     <include name="TestCookie"/>
                     <include name="TestExpress"/>
                 </methods>
             </class>
-            <class name="com.hsl.cn.test.Test0002">
+            <class name="com.hsl.cn.cn.test.Test0002">
                 <methods>
                     <include name="test001"/>
                     <include name="test002"/>
                 </methods>
             </class>
-            <class name="com.hsl.cn.test.TestExpress">
+            <class name="com.hsl.cn.cn.test.TestExpress">
                 <methods>
                     <include name="TestCookie"/>
                     <include name="TestExpress"/>

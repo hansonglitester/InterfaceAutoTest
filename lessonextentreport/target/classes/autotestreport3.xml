@@ -43,6 +43,6 @@
     </test>
 
     <listeners>
-        <listener class-name="com.hsl.cn.reporter.ExtentTestNGIReporterListener"></listener>
+        <listener class-name="com.hsl.cn.reporter.MyExtentTestNGIReporterListener"></listener>
     </listeners>
 </suite>

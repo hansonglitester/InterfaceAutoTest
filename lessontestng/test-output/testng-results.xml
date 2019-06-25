@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="46" started-at="2019-04-23T13:04:03Z" finished-at="2019-04-23T13:04:03Z">
+    <groups>
+    </groups>
+    <test name="InterfaceAutoTest" duration-ms="46" started-at="2019-04-23T13:04:03Z" finished-at="2019-04-23T13:04:03Z">
+      <class name="com.hsl.cn.cn.asserts.Verify">
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.hsl.cn.asserts.Verify@16c0663d]" name="test3" duration-ms="11" started-at="2019-04-23T13:04:03Z" finished-at="2019-04-23T13:04:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- Verify -->
+    </test> <!-- InterfaceAutoTest -->
+  </suite> <!-- Default Suite -->
+</testng-results>

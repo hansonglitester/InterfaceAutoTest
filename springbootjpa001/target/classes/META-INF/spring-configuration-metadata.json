@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "test.yizhan.config.DataSourceConfiguration",
+      "name": "spring.datasource.first",
+      "sourceMethod": "dataSourceFirst()",
+      "type": "javax.sql.DataSource"
+    },
+    {
+      "sourceType": "test.yizhan.config.DataSourceConfiguration",
+      "name": "spring.datasource.second",
+      "sourceMethod": "dataSourceSecond()",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}
